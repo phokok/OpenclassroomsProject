@@ -1,0 +1,21 @@
+body
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 11px;
+    
+
+}
+h1
+{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+a
+{
+    font-size: 12px;
+}
+body{
+    text-align: justify;
+    margin: 80px;
+}
